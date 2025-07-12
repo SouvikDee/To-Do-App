@@ -52,6 +52,3 @@ npm start
 - React Navigation
 - Functional components & hooks
 - TypeScript (for type safety)
-
-## License
-MIT 
